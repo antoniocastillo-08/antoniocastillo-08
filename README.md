@@ -1,4 +1,4 @@
-![HeadImage]([https://universidadeuropea.com/curso-python-online/](https://cdn-images.dzcdn.net/images/cover/52ba3fac41f5a3e8fb58e45642d1666b/0x1900-000000-80-0-0.jpg))
+![HeadImage](https://universidadeuropea.com/curso-python-online/](https://cdn-images.dzcdn.net/images/cover/52ba3fac41f5a3e8fb58e45642d1666b/0x1900-000000-80-0-0.jpg))
 
 # 💫 About Me:
 Soy un desarrollador de software en formación, finalizando el ciclo superior de Desarrollo de Aplicaciones Multiplataforma. Me apasiona la programación y disfruto creando soluciones eficientes y bien estructuradas.<br><br>Tengo experiencia trabajando con Java, PHP y Python, además de herramientas como Odoo y bases de datos relacionales. También he desarrollado aplicaciones de escritorio con JavaFX, aprovechando su potencial para crear interfaces gráficas modernas e interactivas.<br><br>Me especializo en el desarrollo de aplicaciones tanto de escritorio como web, con un enfoque en la calidad del código y la optimización del rendimiento. Siempre estoy aprendiendo nuevas tecnologías y explorando formas de mejorar mis habilidades.
