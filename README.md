@@ -15,4 +15,4 @@ Soy un desarrollador de software en formación, finalizando el ciclo superior de
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=antoniocastillo-08&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![antoniocastillo-08's Stats](https://github-readme-stats.vercel.app/api?username=antoniocastillo-08&theme=dracula&show_icons=true&hide_border=false&count_private=true)
