@@ -23,6 +23,7 @@ Really like web development but I also like desktop apps, mobile apps, ... every
 ![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHP-%239868f2?style=for-the-badge&logo=PHP&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white)
+![Static Badge](https://img.shields.io/badge/phyton-yellow?style=for-the-badge&logo=python&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
