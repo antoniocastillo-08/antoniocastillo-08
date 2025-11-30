@@ -5,11 +5,13 @@
 # About Me!! :confetti_ball:
 
 
-Hi! :wave::smile: I'm Antonio, and I'm learning to be a fullstack developer on my own. I would like to join dev community and start working in projects wich could help to improve our lives.   
+Hello! I'm Antonio 👋, and I am actively developing my skills in Artificial Intelligence (AI), Machine Learning (ML), and Big Data tools. I am highly focused on these fields, seeking to apply these technologies to create meaningful improvements in people's lives.
 
-I've recently completed a higher degree on aplication development and I keep learning from Youtube videos or discord servers.  
+I recently finished a higher degree in application development and am continuously expanding my knowledge through specialized online resources and community-driven learning platforms, and keep studying a master AI & Big Data at I.E.S. Gran Capitán in Córdoba, Spain.
 
-Really like web development but I also like desktop apps, mobile apps, ... everything related to code and programming.
+My passion lies in projects involving code that learns and processes data, whether it's embedded in web, desktop, or mobile applications.
+
+I'm looking to join a forward-thinking development community to collaborate on innovative AI/ML and Big Data projects..
 
 ---
 # Contact Me:
@@ -20,7 +22,6 @@ Really like web development but I also like desktop apps, mobile apps, ... every
 # Tech Stack:
 
 ![Static Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Codeforces)
-![Static Badge](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PHP-%239868f2?style=for-the-badge&logo=PHP&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/phyton-yellow?style=for-the-badge&logo=python&logoColor=blue)
