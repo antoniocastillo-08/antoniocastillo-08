@@ -20,16 +20,20 @@ I'm looking to join a forward-thinking development community to collaborate on i
 
 ---
 # Tech Stack:
-
+![Static Badge](https://img.shields.io/badge/phyton-yellow?style=for-the-badge&logo=python&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=Pandas&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Numpy-green?style=for-the-badge&logo=numpy&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Neo4J-green?style=for-the-badge&logo=neo4j&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=Codeforces)
 ![Static Badge](https://img.shields.io/badge/PHP-%239868f2?style=for-the-badge&logo=PHP&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=MYSQL&logoColor=white)
-![Static Badge](https://img.shields.io/badge/phyton-yellow?style=for-the-badge&logo=python&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=Kotlin&logoColor=white)
+
+
 
 ---
 # GitHub Stats
