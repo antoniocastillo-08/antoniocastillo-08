@@ -1,5 +1,4 @@
 ![Banner](resources/img/banner.gif)
-###### I don't own this gif  
 
 ---
 # About Me!! :confetti_ball:
